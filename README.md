@@ -22,7 +22,7 @@ The two least significant bits indicates if RE was rotated counter- or clockwise
 
 Examples:
 
-|    Message       |              Interpretation                        |
+|    Byte       |              Description                         |
 ------------------ | ----------------------------------------------------
 | 0000 10 00 | RE id 0 was pressed                                |
 | 0001 10 10 | RE id 1 was pressed and rotated counter clockwise. |
