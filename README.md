@@ -10,7 +10,7 @@ runnable atmega328p or compatible.
 
 possible 5 to 3.3 voltage correlation between atmega and teensy UART.
 
-###API
+### Format
 
 Comunication is made throu Tx,Rx. 
 
