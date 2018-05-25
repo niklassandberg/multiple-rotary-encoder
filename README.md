@@ -6,9 +6,8 @@ Just install Arduino IDE https://www.arduino.cc/en/Main/Software and clone this 
 
 ### Hardware
 
-runnable atmega328p or compatible.
-
-possible 5 to 3.3 voltage correlation between atmega and teensy UART.
+* runnable atmega328p or compatible.
+* 5 to 3.3 voltage correlation between atmega and teensy UART.
 
 ### Format
 
