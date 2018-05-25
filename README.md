@@ -27,5 +27,5 @@ Examples:
 
 `0001` `10` `10` "RE id 1 was pressed and rotated counter clockwise."
 
-`0010` `01` `10` "RE id 2 was released and rotated clockwise."
+`0010` `01` `01` "RE id 2 was released and rotated clockwise."
 
