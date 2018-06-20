@@ -7,7 +7,7 @@
 // For debug
 //#define SEND(X) { uint8_t rot = (X).process(); if ( rot & 15 ) printBinary(rot); }
 
-static uint8_t gPowerdownCounter = 0;
+static volatile uint8_t gPowerdownCounter = 0;
 #define POWERDOWN_IN_SEC 60
 
 void pciSetup(byte pin)
