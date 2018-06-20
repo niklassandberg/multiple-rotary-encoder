@@ -2,7 +2,8 @@
 
 ## Configuration/Setup
 
-Just install Arduino IDE https://www.arduino.cc/en/Main/Software and clone this project. 
+* Install Arduino IDE https://www.arduino.cc/en/Main/Software and clone this project.
+* If Arduino usb2serial is used as programmer choose board "Arduino Por or Pro Mini" in Arduino IDE and correct processor. This should not need to be documented here but apperantly it is hard to find this info.
 
 ### Hardware
 
